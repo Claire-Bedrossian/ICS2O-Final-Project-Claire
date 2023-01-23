@@ -108,8 +108,7 @@ function myButtonClicked() {
   } else if (zodiac == "Aries" && topic == "Health") {
     document.getElementById("horoscope").innerHTML =
       "<p>Open yourself up to change and release your grip on things that you know should go. This pertains to unhealthy eating habits, and laziness. Your body governs how you feel to a large extent: give it the respect it deserves.</p>"
-  }
-   else if (zodiac == "Taurus" && topic == "Money") {
+  } else if (zodiac == "Taurus" && topic == "Money") {
     document.getElementById("horoscope").innerHTML =
       " <p>It may seem like you're going backward with the aspects in your house of cash and values. You may have money on your mind, but things keep getting delayed or in the way. It's maddening and, fortunately, temporary.</p>"
   } else if (zodiac == "Taurus" && topic == "Health") {
