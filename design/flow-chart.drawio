@@ -1,41 +1,41 @@
 <mxfile host="65bd71144e">
     <diagram id="eYP3qBmG0musdtPE9gto" name="Page-1">
-        <mxGraphModel dx="967" dy="1898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="27450" dy="3030" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="756" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="757" target="759">
+                <mxCell id="756" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="757" target="759" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="757" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+                <mxCell id="757" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
                     <mxGeometry x="950" y="-200" width="100" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="758" style="edgeStyle=none;html=1;" edge="1" parent="1" source="759" target="761">
+                <mxCell id="758" style="edgeStyle=none;html=1;" parent="1" source="759" target="761" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="759" value="Input user date of birth" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                <mxCell id="759" value="Input user date of birth" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
                     <mxGeometry x="865" y="-100" width="270" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="760" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="761" target="763">
+                <mxCell id="760" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="761" target="763" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="761" value="Input horoscope topic category" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                <mxCell id="761" value="Input horoscope topic category" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
                     <mxGeometry x="860" width="280" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="762" style="edgeStyle=none;html=1;" edge="1" parent="1" source="763" target="765">
+                <mxCell id="762" style="edgeStyle=none;html=1;" parent="1" source="763" target="765" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="763" value="&lt;span&gt;Create MDL list of zodiacs with dates beside each&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="763" value="&lt;span&gt;Create MDL list of zodiacs with dates beside each&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="940" y="130" width="120" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="764" style="edgeStyle=none;html=1;entryX=0.484;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="765" target="768">
+                <mxCell id="764" style="edgeStyle=none;html=1;entryX=0.484;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="765" target="768" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="1430" y="390"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="854" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="765" target="853">
+                <mxCell id="854" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="765" target="853" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="600" y="390"/>
@@ -44,258 +44,259 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="765" value="&lt;span&gt;Create MDL list of horoscope topics&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="765" value="&lt;span&gt;Create MDL list of horoscope topics&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="940" y="330" width="120" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="766" style="edgeStyle=none;html=1;" edge="1" parent="1" source="768" target="769">
+                <mxCell id="766" style="edgeStyle=none;html=1;" parent="1" source="768" target="769" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="767" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="768" target="772">
+                <mxCell id="767" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="768" target="772" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="2155" y="550"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="768" value="&lt;span&gt;if zodiac == aries&amp;nbsp;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                <mxCell id="768" value="&lt;span&gt;if zodiac == aries&amp;nbsp;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
                     <mxGeometry x="1175" y="500" width="530" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="769" value="&lt;div&gt;document.getElementById(&quot;zodiac-image&quot;).innerHTML =&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; '&amp;lt;img src= ./images/aries.png alt=&quot;API image&quot; class=&quot;center&quot; width= 50% height 50%' +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;h4&amp;gt;Aries are fiery, passionate and high energy fire signs.&amp;lt;/h4&amp;gt;&quot;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                <mxCell id="769" value="&lt;div&gt;document.getElementById(&quot;zodiac-image&quot;).innerHTML =&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; '&amp;lt;img src= ./images/aries.png alt=&quot;API image&quot; class=&quot;center&quot; width= 50% height 50%' +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;h4&amp;gt;Aries are fiery, passionate and high energy fire signs.&amp;lt;/h4&amp;gt;&quot;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
                     <mxGeometry x="1080" y="780" width="720" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="770" style="edgeStyle=none;html=1;" edge="1" parent="1" source="772" target="773">
+                <mxCell id="770" style="edgeStyle=none;html=1;" parent="1" source="772" target="773" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="771" style="edgeStyle=none;html=1;entryX=0.481;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="772" target="775">
+                <mxCell id="771" style="edgeStyle=none;html=1;entryX=0.481;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="772" target="775" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="2900" y="860"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="772" value="&lt;span&gt;else if zodiac == taurus&amp;nbsp;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                <mxCell id="772" value="&lt;span&gt;else if zodiac == taurus&amp;nbsp;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
                     <mxGeometry x="1890" y="810" width="530" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="773" value="&lt;div&gt;document.getElementById(&quot;zodiac-image&quot;).innerHTML =&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; '&amp;lt;img src= ./images/taurus.png alt=&quot;API image&quot; class=&quot;center&quot; width= 50% height 50%' +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;h4&amp;gt;Taurus are hard-headed, down-to-earth and tenacious earth signs.&amp;lt;/h4&amp;gt;&quot;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                <mxCell id="773" value="&lt;div&gt;document.getElementById(&quot;zodiac-image&quot;).innerHTML =&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; '&amp;lt;img src= ./images/taurus.png alt=&quot;API image&quot; class=&quot;center&quot; width= 50% height 50%' +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;h4&amp;gt;Taurus are hard-headed, down-to-earth and tenacious earth signs.&amp;lt;/h4&amp;gt;&quot;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
                     <mxGeometry x="1795" y="1019" width="720" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="774" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="775" target="778">
+                <mxCell id="774" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="775" target="778" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="3680" y="1069"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="775" value="&lt;span&gt;else if zodiac == gemini&amp;nbsp;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                <mxCell id="775" value="&lt;span&gt;else if zodiac == gemini&amp;nbsp;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
                     <mxGeometry x="2645" y="1019" width="530" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="776" value="&lt;div&gt;'&amp;lt;img src= ./images/gemini.png alt=&quot;API image&quot; class=&quot;center&quot; width= 50% height 50%' +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;h4&amp;gt;Gemini are flexible, extroverted, and clever air signs.&amp;lt;/h4&amp;gt;&quot;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                <mxCell id="776" value="&lt;div&gt;'&amp;lt;img src= ./images/gemini.png alt=&quot;API image&quot; class=&quot;center&quot; width= 50% height 50%' +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;h4&amp;gt;Gemini are flexible, extroverted, and clever air signs.&amp;lt;/h4&amp;gt;&quot;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
                     <mxGeometry x="2550" y="1228" width="720" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="777" style="edgeStyle=none;html=1;" edge="1" parent="1" source="775" target="776">
+                <mxCell id="777" style="edgeStyle=none;html=1;" parent="1" source="775" target="776" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="778" value="&lt;span&gt;else if zodiac == cancer&amp;nbsp;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                <mxCell id="778" value="&lt;span&gt;else if zodiac == cancer&amp;nbsp;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
                     <mxGeometry x="3415" y="1228" width="530" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="779" value="&lt;div&gt;'&amp;lt;img src= ./images/cancer.png alt=&quot;API image&quot; class=&quot;center&quot; width= 50% height 50%' +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;h4&amp;gt;Cancers are nurturing, loya;, and protective water signs.&amp;lt;/h4&amp;gt;&quot;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                <mxCell id="779" value="&lt;div&gt;'&amp;lt;img src= ./images/cancer.png alt=&quot;API image&quot; class=&quot;center&quot; width= 50% height 50%' +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;h4&amp;gt;Cancers are nurturing, loya;, and protective water signs.&amp;lt;/h4&amp;gt;&quot;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
                     <mxGeometry x="3320" y="1437" width="720" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="780" style="edgeStyle=none;html=1;" edge="1" parent="1" source="778" target="779">
+                <mxCell id="780" style="edgeStyle=none;html=1;" parent="1" source="778" target="779" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="781" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                <mxCell id="781" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
                     <mxGeometry x="1860" y="500" width="100" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="782" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                <mxCell id="782" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
                     <mxGeometry x="1460" y="660" width="100" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="783" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                <mxCell id="783" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
                     <mxGeometry x="2600" y="810" width="100" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="784" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                <mxCell id="784" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
                     <mxGeometry x="3340" y="1019" width="100" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="785" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                <mxCell id="785" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
                     <mxGeometry x="3710" y="1350" width="110" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="786" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                <mxCell id="786" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
                     <mxGeometry x="2910" y="1110" width="110" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="787" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                <mxCell id="787" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
                     <mxGeometry x="2160" y="900" width="110" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="788" style="edgeStyle=none;html=1;entryX=0.484;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="789" target="795">
+                <mxCell id="788" style="edgeStyle=none;html=1;entryX=0.484;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="789" target="795" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="5190" y="1500"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="789" value="&lt;span&gt;else if zodiac == leo&amp;nbsp;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                <mxCell id="789" value="&lt;span&gt;else if zodiac == leo&amp;nbsp;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
                     <mxGeometry x="4135" y="1450" width="530" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="790" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="791" target="849">
+                <mxCell id="790" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="791" target="849" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="4390" y="3290"/>
+                            <mxPoint x="4440" y="7745"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="791" value="&lt;div&gt;&amp;nbsp; '&amp;lt;img src= ./images/leo.png alt=&quot;API image&quot; class=&quot;center&quot; width= 50% height 50%' +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;h4&amp;gt;Leos are confident, comfortable being the center of attention and drama-adoring fire signs.&amp;lt;/h4&amp;gt;&quot;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                <mxCell id="791" value="&lt;div&gt;&amp;nbsp; '&amp;lt;img src= ./images/leo.png alt=&quot;API image&quot; class=&quot;center&quot; width= 50% height 50%' +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;h4&amp;gt;Leos are confident, comfortable being the center of attention and drama-adoring fire signs.&amp;lt;/h4&amp;gt;&quot;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
                     <mxGeometry x="3980" y="1669" width="840" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="792" style="edgeStyle=none;html=1;" edge="1" parent="1" source="789" target="791">
+                <mxCell id="792" style="edgeStyle=none;html=1;" parent="1" source="789" target="791" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="793" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="778" target="789">
+                <mxCell id="793" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="778" target="789" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="4400" y="1278"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="794" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="795" target="800">
+                <mxCell id="794" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="795" target="800" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="5920" y="1720"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="795" value="&lt;span&gt;else if zodiac == virgo&amp;nbsp;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                <mxCell id="795" value="&lt;span&gt;else if zodiac == virgo&amp;nbsp;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
                     <mxGeometry x="4935" y="1669" width="530" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="796" style="edgeStyle=none;html=1;" edge="1" parent="1" source="797" target="849">
+                <mxCell id="796" style="edgeStyle=none;html=1;" parent="1" source="797" target="849" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="5200" y="2160"/>
-                            <mxPoint x="5200" y="3300"/>
+                            <mxPoint x="5176" y="7745"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="797" value="&lt;div&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;'&amp;lt;img src= ./images/virgo.png alt=&quot;API image&quot; class=&quot;center&quot; width= 50% height 50%' +&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;h4&amp;gt;Virgos are humble, self-effacing, industrious, and practical earth signs.&amp;lt;/h4&amp;gt;&quot;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                <mxCell id="797" value="&lt;div&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;'&amp;lt;img src= ./images/virgo.png alt=&quot;API image&quot; class=&quot;center&quot; width= 50% height 50%' +&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;h4&amp;gt;Virgos are humble, self-effacing, industrious, and practical earth signs.&amp;lt;/h4&amp;gt;&quot;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
                     <mxGeometry x="4835" y="1878" width="730" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="798" style="edgeStyle=none;html=1;" edge="1" parent="1" source="795" target="797">
+                <mxCell id="798" style="edgeStyle=none;html=1;" parent="1" source="795" target="797" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="799" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="800" target="805">
+                <mxCell id="799" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="800" target="805" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="6635" y="1930"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="800" value="&lt;span&gt;else if zodiac == libra&amp;nbsp;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                <mxCell id="800" value="&lt;span&gt;else if zodiac == libra&amp;nbsp;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
                     <mxGeometry x="5650" y="1878" width="530" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="801" style="edgeStyle=none;html=1;entryX=0.979;entryY=0.606;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="802" target="849">
+                <mxCell id="801" style="edgeStyle=none;html=1;entryX=0.979;entryY=0.606;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="802" target="849" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="5915" y="3299"/>
+                            <mxPoint x="5896" y="7745"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="802" value="&lt;div&gt;'&amp;lt;img src= ./images/libra.png alt=&quot;API image&quot; class=&quot;center&quot; width= 50% height 50%' +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;h4&amp;gt;Libras are charming, beautiful, and well-balanced air signs.&amp;lt;/h4&amp;gt;&quot;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                <mxCell id="802" value="&lt;div&gt;'&amp;lt;img src= ./images/libra.png alt=&quot;API image&quot; class=&quot;center&quot; width= 50% height 50%' +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;h4&amp;gt;Libras are charming, beautiful, and well-balanced air signs.&amp;lt;/h4&amp;gt;&quot;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
                     <mxGeometry x="5550" y="2087" width="730" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="803" style="edgeStyle=none;html=1;" edge="1" parent="1" source="800" target="802">
+                <mxCell id="803" style="edgeStyle=none;html=1;" parent="1" source="800" target="802" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="804" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="805" target="810">
+                <mxCell id="804" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="805" target="810" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="7305" y="2137"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="805" value="&lt;span&gt;else if zodiac == scorpio&amp;nbsp;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                <mxCell id="805" value="&lt;span&gt;else if zodiac == scorpio&amp;nbsp;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
                     <mxGeometry x="6370" y="2087" width="530" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="806" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="807" target="849">
+                <mxCell id="806" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="807" target="849" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="6635" y="3300"/>
+                            <mxPoint x="6584" y="7745"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="807" value="&lt;div&gt;&amp;nbsp;'&amp;lt;img src= ./images/scorpio.png alt=&quot;scorpio image&quot; class=&quot;center&quot; width= 50% height 50%' +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;h4&amp;gt;Scorpios are determined, brave, and loyal water signs.&amp;lt;/h4&amp;gt;&quot;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                <mxCell id="807" value="&lt;div&gt;&amp;nbsp;'&amp;lt;img src= ./images/scorpio.png alt=&quot;scorpio image&quot; class=&quot;center&quot; width= 50% height 50%' +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;h4&amp;gt;Scorpios are determined, brave, and loyal water signs.&amp;lt;/h4&amp;gt;&quot;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
                     <mxGeometry x="6270" y="2296" width="730" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="808" style="edgeStyle=none;html=1;" edge="1" parent="1" source="805" target="807">
+                <mxCell id="808" style="edgeStyle=none;html=1;" parent="1" source="805" target="807" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="809" style="edgeStyle=none;html=1;entryX=0.485;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="810" target="815">
+                <mxCell id="809" style="edgeStyle=none;html=1;entryX=0.485;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="810" target="815" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="8027" y="2346"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="810" value="&lt;span&gt;else if zodiac == sagittarius&amp;nbsp;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                <mxCell id="810" value="&lt;span&gt;else if zodiac == sagittarius&amp;nbsp;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
                     <mxGeometry x="7040" y="2296" width="530" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="811" style="edgeStyle=none;html=1;" edge="1" parent="1" source="812" target="849">
+                <mxCell id="811" style="edgeStyle=none;html=1;" parent="1" source="812" target="849" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="7300" y="3300"/>
+                            <mxPoint x="7400" y="7745"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="812" value="&lt;div&gt;'&amp;lt;img src= ./images/sagittarius.png alt=&quot;sagittarius image&quot; class=&quot;center&quot; width= 50% height 50%' +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;h4&amp;gt;Sagittarius are optimistic, lovers of freedom and hilarious fire signs.&amp;lt;/h4&amp;gt;&quot;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                <mxCell id="812" value="&lt;div&gt;'&amp;lt;img src= ./images/sagittarius.png alt=&quot;sagittarius image&quot; class=&quot;center&quot; width= 50% height 50%' +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;h4&amp;gt;Sagittarius are optimistic, lovers of freedom and hilarious fire signs.&amp;lt;/h4&amp;gt;&quot;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
                     <mxGeometry x="6940" y="2505" width="730" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="813" style="edgeStyle=none;html=1;" edge="1" parent="1" source="810" target="812">
+                <mxCell id="813" style="edgeStyle=none;html=1;" parent="1" source="810" target="812" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="814" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="815" target="820">
+                <mxCell id="814" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="815" target="820" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="8695" y="2550"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="815" value="&lt;span&gt;else if zodiac == capricorn&amp;nbsp;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                <mxCell id="815" value="&lt;span&gt;else if zodiac == capricorn&amp;nbsp;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
                     <mxGeometry x="7770" y="2500" width="530" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="816" style="edgeStyle=none;html=1;" edge="1" parent="1" source="817">
+                <mxCell id="816" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="817" edge="1" target="849">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="2270" y="3300" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="8040" y="3300"/>
+                            <mxPoint x="8120" y="7716"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="817" value="&lt;div&gt;'&amp;lt;img src= ./images/capricorn.png alt=&quot;capricorn image&quot; class=&quot;center&quot; width= 50% height 50%' +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;h4&amp;gt;Capricorns are overachievers, persistent and practical earth signs.&amp;lt;/h4&amp;gt;&quot;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                <mxCell id="817" value="&lt;div&gt;'&amp;lt;img src= ./images/capricorn.png alt=&quot;capricorn image&quot; class=&quot;center&quot; width= 50% height 50%' +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;h4&amp;gt;Capricorns are overachievers, persistent and practical earth signs.&amp;lt;/h4&amp;gt;&quot;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
                     <mxGeometry x="7670" y="2700" width="730" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="818" style="edgeStyle=none;html=1;" edge="1" parent="1" source="815" target="817">
+                <mxCell id="818" style="edgeStyle=none;html=1;" parent="1" source="815" target="817" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="819" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="820" target="825">
+                <mxCell id="819" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="820" target="825" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="9345" y="2759"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="820" value="&lt;span&gt;else if zodiac == aquarius&amp;nbsp;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                <mxCell id="820" value="&lt;span&gt;else if zodiac == aquarius&amp;nbsp;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
                     <mxGeometry x="8430" y="2709" width="530" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="821" style="edgeStyle=none;html=1;entryX=0.9;entryY=0.614;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="822" target="849">
+                <mxCell id="821" style="edgeStyle=none;html=1;entryX=0.9;entryY=0.614;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="822" target="849" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="8700" y="3300"/>
+                            <mxPoint x="8760" y="7716"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="822" value="&lt;div&gt;'&amp;lt;img src= ./images/aquarius.png alt=&quot;API image&quot; class=&quot;center&quot; width= 50% height 50%' +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;h4&amp;gt;Aquarius are progressive, independent, intelligent, unique, and idealistic air signs.&amp;lt;/h4&amp;gt;&quot;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                <mxCell id="822" value="&lt;div&gt;'&amp;lt;img src= ./images/aquarius.png alt=&quot;API image&quot; class=&quot;center&quot; width= 50% height 50%' +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;h4&amp;gt;Aquarius are progressive, independent, intelligent, unique, and idealistic air signs.&amp;lt;/h4&amp;gt;&quot;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
                     <mxGeometry x="8330" y="2918" width="730" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="823" style="edgeStyle=none;html=1;" edge="1" parent="1" source="820" target="822">
+                <mxCell id="823" style="edgeStyle=none;html=1;" parent="1" source="820" target="822" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="824" style="edgeStyle=none;html=1;entryX=0.521;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="825" target="830">
+                <mxCell id="824" style="edgeStyle=none;html=1;entryX=0.521;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="825" target="830" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="10010" y="2968" as="targetPoint"/>
                         <Array as="points">
@@ -303,112 +304,1208 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="825" value="&lt;span&gt;else if zodiac == pisces&amp;nbsp;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                <mxCell id="825" value="&lt;span&gt;else if zodiac == pisces&amp;nbsp;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
                     <mxGeometry x="9080" y="2918" width="530" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="826" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="827" target="849">
+                <mxCell id="826" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="827" target="849" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="9345" y="3300"/>
+                            <mxPoint x="9290" y="7720"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="827" value="&lt;div&gt;'&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;'&amp;lt;img src= ./images/pisces.png alt=&quot;API image&quot; class=&quot;center&quot; width= 50% height 50%' +&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;h4&amp;gt;Pisces are compassionate, artistic and deeply emotional water signs.&amp;lt;/h4&amp;gt;&quot;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                <mxCell id="827" value="&lt;div&gt;'&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;'&amp;lt;img src= ./images/pisces.png alt=&quot;API image&quot; class=&quot;center&quot; width= 50% height 50%' +&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&quot; +&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;h4&amp;gt;Pisces are compassionate, artistic and deeply emotional water signs.&amp;lt;/h4&amp;gt;&quot;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
                     <mxGeometry x="8980" y="3127" width="730" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="828" style="edgeStyle=none;html=1;" edge="1" parent="1" source="825" target="827">
+                <mxCell id="828" style="edgeStyle=none;html=1;" parent="1" source="825" target="827" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="829" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="830" target="849">
+                <mxCell id="829" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="830" target="849" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="7730" y="3310"/>
+                            <mxPoint x="10104" y="7732"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="830" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&quot;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&quot; +&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;You did not select anything.&amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                <mxCell id="1003" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="830" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="10040" y="7720"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="830" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&quot;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&quot; +&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;You did not select anything.&amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
                     <mxGeometry x="9700" y="3170" width="730" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="831" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                <mxCell id="831" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
                     <mxGeometry x="4082" y="1220" width="100" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="832" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                <mxCell id="832" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
                     <mxGeometry x="4860" y="1460" width="100" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="833" style="edgeStyle=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.848;entryY=1.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="832" target="832">
+                <mxCell id="833" style="edgeStyle=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.848;entryY=1.041;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="832" target="832" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="834" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                <mxCell id="834" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
                     <mxGeometry x="5600" y="1680" width="100" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="835" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                <mxCell id="835" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
                     <mxGeometry x="6330" y="1878" width="100" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="836" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                <mxCell id="836" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
                     <mxGeometry x="7030" y="2087" width="100" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="837" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                <mxCell id="837" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
                     <mxGeometry x="7710" y="2296" width="100" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="838" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                <mxCell id="838" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
                     <mxGeometry x="8420" y="2500" width="100" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="839" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                <mxCell id="839" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
                     <mxGeometry x="9100" y="2709" width="110" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="840" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                <mxCell id="840" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
                     <mxGeometry x="9780" y="2918" width="110" height="41" as="geometry"/>
                 </mxCell>
-                <mxCell id="841" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                <mxCell id="841" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
                     <mxGeometry x="9370" y="3040" width="110" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="842" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                <mxCell id="842" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
                     <mxGeometry x="8710" y="2839" width="110" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="843" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                <mxCell id="843" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
                     <mxGeometry x="8060" y="2620" width="110" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="844" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                <mxCell id="844" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
                     <mxGeometry x="7340" y="2420" width="110" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="845" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                <mxCell id="845" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
                     <mxGeometry x="6650" y="2217" width="110" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="846" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                <mxCell id="846" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
                     <mxGeometry x="5930" y="2008" width="110" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="847" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                <mxCell id="847" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
                     <mxGeometry x="5200" y="1799" width="110" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="848" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                <mxCell id="848" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
                     <mxGeometry x="4430" y="1590" width="110" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="849" value="Stop" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-                    <mxGeometry x="2250" y="3257" width="100" height="70" as="geometry"/>
+                <mxCell id="849" value="Stop" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+                    <mxGeometry x="950" y="7710" width="100" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="850" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="769" target="849">
+                <mxCell id="850" style="edgeStyle=none;html=1;" parent="1" source="769" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="1430" y="3290"/>
+                            <mxPoint x="1480" y="7751"/>
+                        </Array>
+                        <mxPoint x="1050" y="7745" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="851" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="776" target="849" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="2952" y="7745"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="851" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="776" target="849">
+                <mxCell id="852" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="779" target="849" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="2910" y="3290"/>
+                            <mxPoint x="3640" y="7732"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="852" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="779" target="849">
+                <mxCell id="856" style="edgeStyle=none;html=1;" edge="1" parent="1" source="853" target="855">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="863" style="edgeStyle=none;html=1;" edge="1" parent="1" source="853">
                     <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-50" y="749.9999999999995" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="3680" y="3292"/>
+                            <mxPoint x="-50" y="535"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="853" value="zodiac == &quot;Aries&quot; &amp;amp;&amp;amp; topic == &quot;Work&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                <mxCell id="853" value="zodiac == &quot;Aries&quot; &amp;amp;&amp;amp; topic == &quot;Money&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
                     <mxGeometry x="320" y="485" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="949" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="855" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="591" y="7745"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="855" value="&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;It may seem like money is all around you now.&amp;nbsp;&lt;/div&gt;&lt;div&gt;If you're trying to attract cash, put together a solid business plan.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Enumerate your skills, passion, and - most of all - the figures&amp;nbsp;&lt;/div&gt;&lt;div&gt;to show your real worth.&amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="750" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="857" style="edgeStyle=none;html=1;" edge="1" parent="1" source="858" target="859">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="864" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="858" target="861">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-785" y="800"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="858" value="zodiac == &quot;Aries&quot; &amp;amp;&amp;amp; topic == &quot;Health&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-320" y="754" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="950" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="859" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="40" y="7745"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="859" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;Open yourself up to change and&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;release your grip on things that you know should go.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;This pertains to unhealthy eating habits, and laziness.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Your body governs how you feel to a large extent: give it the respect it deserves.&amp;lt;/p&amp;gt;&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-350" y="1019" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="860" style="edgeStyle=none;html=1;" edge="1" parent="1" source="861" target="862">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="876" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="861" target="867">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-1415" y="940"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="861" value="zodiac == &quot;Aries&quot; &amp;amp;&amp;amp; topic == &quot;Work&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-1050" y="890" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1005" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="862" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="824.000244140625" y="7604.0008544921875" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-785" y="7737"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="862" value="&lt;div&gt;&amp;nbsp; &amp;nbsp;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;At a time in which you were hoping to celebrate tremendous success on something you have been working on, you may become quite distraught as you realize that you have forgotten one very important detail.&amp;lt;/p&amp;gt;&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-1080" y="1090" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="865" style="edgeStyle=none;html=1;" edge="1" parent="1" source="867" target="868">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="866" style="edgeStyle=none;html=1;" edge="1" parent="1" source="867">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-2050" y="1298.9999999999995" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-2050" y="1084"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="867" value="zodiac == &quot;Taurus&quot; &amp;amp;&amp;amp; topic == &quot;Money&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-1680" y="1034" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1006" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="868" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="872" y="7732" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-1208" y="7764"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="868" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot; &amp;lt;p&amp;gt;It may seem like you're going backward with the aspects in your house of cash and values. You may have money on your mind, but things keep getting delayed or in the way. It's maddening and, fortunately, temporary.&amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-1710" y="1299" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="869" style="edgeStyle=none;html=1;" edge="1" parent="1" source="871" target="872">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="870" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="871" target="874">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-2785" y="1349"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="871" value="zodiac == &quot;Taurus&quot; &amp;amp;&amp;amp; topic == &quot;Health&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-2320" y="1303" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1007" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="872" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-1672" y="7716"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="872" value="&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;When sleep is good, so is the rest of life, generally speaking! Every now and then we need to adjust our sleeping habits consciously so that we are insured of good rest. You may need a new bed!&amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-2350" y="1568" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="873" style="edgeStyle=none;html=1;" edge="1" parent="1" source="874" target="875">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="888" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="874" target="879">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-3445" y="1489"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="874" value="zodiac == &quot;Taurus&quot; &amp;amp;&amp;amp; topic == &quot;Work&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-3050" y="1439" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1008" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="875" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-2424" y="7745"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="875" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span&gt;&quot;&amp;lt;p&amp;gt;Your tendency is to take the lead on something that needs&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;immediate attention. Be careful. You are not the best one&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;suited for the job - so let someone else do it.&amp;lt;/p&amp;gt;&quot;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-3080" y="1639" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="877" style="edgeStyle=none;html=1;" edge="1" parent="1" source="879" target="880">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="878" style="edgeStyle=none;html=1;" edge="1" parent="1" source="879">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-4080" y="1895" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-4080" y="1680"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="879" value="zodiac == &quot;Gemini&quot; &amp;amp;&amp;amp; topic == &quot;Money&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-3710" y="1630" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1009" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="880" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="888.00048828125" y="7731.99951171875" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-2952" y="7745"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="880" value="&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;You want to feel in control, and money is seldom controllable. The good news is that there's a lot of positive energy concentrated in your money sector. With action and luck, it should be easier to earn money at this time.&amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-3740" y="1895" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="881" style="edgeStyle=none;html=1;" edge="1" parent="1" source="883" target="884">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="882" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="883" target="886">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-4815" y="1945"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="883" value="zodiac == &quot;Gemini&quot; &amp;amp;&amp;amp; topic == &quot;Health&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-4350" y="1899" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1010" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="884" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-3704" y="7764"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="884" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;This is a time to follow your instincts. That still, small voice within can take you a long way if you tune into it! Ever think of doing yoga during the day but then not feel like it when you get off work? Call a friend and plan to hold each other accountable so that you can't get out of it so easily.&amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-4380" y="2164" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="885" style="edgeStyle=none;html=1;" edge="1" parent="1" source="886" target="887">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="900" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="886" target="891">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-5415" y="2080"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="886" value="zodiac == &quot;Gemini&quot; &amp;amp;&amp;amp; topic == &quot;Work&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-5080" y="2035" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1011" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="887" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-4456" y="7732"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="887" value="&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;People may seem to be your friend but be careful. It could be that they are just using you to get what they want. It may be hard to understand people's motives on a day like this. Be cautious and don't give any secrets away to an unreliable source.&amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-5110" y="2235" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="889" style="edgeStyle=none;html=1;" edge="1" parent="1" source="891" target="892">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="890" style="edgeStyle=none;html=1;" edge="1" parent="1" source="891">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-6050.000000000001" y="2428.999999999999" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-6050" y="2214"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="891" value="zodiac == &quot;Cancer&quot; &amp;amp;&amp;amp; topic == &quot;Money&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-5680" y="2164" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1012" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="892" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-5160" y="7745"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="892" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;Now you're in a period of redefining who you are and how you project yourself into the world. The Universe is asking you to pay close attention to your career. If it isn't the one you want, this is the time to change it.&amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-5710" y="2429" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="893" style="edgeStyle=none;html=1;" edge="1" parent="1" source="895" target="896">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="894" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="895" target="898">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-6785" y="2479"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="895" value="zodiac == &quot;Cancer&quot; &amp;amp;&amp;amp; topic == &quot;Health&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-6320" y="2433" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1013" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="896" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-5896" y="7764"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="896" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;You may have to put the shine on hold for a little while and that's OK! You don't really want to be in the spotlight as much as people say you do. In fact, you need to focus on yourself in a way that takes the pressure off your outside self and puts it on your inner self.&amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-6350" y="2698" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="897" style="edgeStyle=none;html=1;" edge="1" parent="1" source="898" target="899">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="912" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="898" target="903">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-7395" y="2619"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="898" value="zodiac == &quot;Cancer&quot; &amp;amp;&amp;amp; topic == &quot;Work&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-7050" y="2569" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1014" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="899" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-6616" y="7732"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="899" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;Sometimes the universe asks us to go over something again if it feels that we haven't done it right the first time. Today is one of those days in which you feel this backward trend. Instead of moving forward, you are asked to go back and review.&amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-7080" y="2769" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="901" style="edgeStyle=none;html=1;" edge="1" parent="1" source="903" target="904">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="902" style="edgeStyle=none;html=1;" edge="1" parent="1" source="903">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-8030.000000000001" y="2973.999999999999" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-8030" y="2759"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="903" value="zodiac == &quot;Leo&quot; &amp;amp;&amp;amp; topic == &quot;Money&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-7660" y="2709" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1015" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="904" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="952.000732421875" y="7715.999755859375" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-7288" y="7732"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="904" value="&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;This period is about the new opportunities coming to your working life. The sky's the limit in terms of what you can expect, but the Universe won't do it for you. You must be on the lookout for ways to increase your income, either by adding a new side business or accepting freelance assignments. &amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-7690" y="2974" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="905" style="edgeStyle=none;html=1;" edge="1" parent="1" source="907" target="908">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="906" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="907" target="910">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-8765" y="3024"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="907" value="zodiac == &quot;Leo&quot; &amp;amp;&amp;amp; topic == &quot;Health&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-8300" y="2978" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1016" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="908" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-7896" y="7732"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="908" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;You may feel a rush of exuberance under today's aspect, and the best way to act that out is physically! If you are accustomed to having an exercise schedule, this is a great time to augment it in some way. &amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-8330" y="3243" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="909" style="edgeStyle=none;html=1;" edge="1" parent="1" source="910" target="911">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="924" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="910" target="915">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-9375" y="3160"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="910" value="zodiac == &quot;Leo&quot; &amp;amp;&amp;amp; topic == &quot;Work&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-9030" y="3114" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1017" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="911" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-8472" y="7745"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="911" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;The pace of your work has been so fast and furious lately that you may have skipped over a very important detail or opportunity. Just because yesterday is over doesn't mean that you can't benefit from revisiting some of its valuable ideas and people.&amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-9060" y="3314" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="913" style="edgeStyle=none;html=1;" edge="1" parent="1" source="915" target="916">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1109" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="915" target="919">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-10024" y="3340"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="915" value="zodiac == &quot;Virgo&quot; &amp;amp;&amp;amp; topic == &quot;Money&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-9640" y="3290" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1018" style="edgeStyle=none;html=1;" edge="1" parent="1" source="916">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="955" y="7745" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-9080" y="7764"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="916" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;You now have activity in your house of earning that over time will radically change the way you earn money. Although it may feel that some sources of income are being pared away from your life, it's for the better in the end. &amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-9670" y="3555" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="917" style="edgeStyle=none;html=1;" edge="1" parent="1" source="919" target="920">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1112" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="919" target="922">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-10745" y="3609"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="919" value="zodiac == &quot;Virgo&quot; &amp;amp;&amp;amp; topic == &quot;Health&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-10280" y="3559" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1019" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="920" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-9816" y="7745"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="920" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;Drop some of your bigger concerns and focus on what you can do today to improve your health (lots of drinking water, daily exercise, rest). A personal sense of well-being is the priority here. &amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-10310" y="3824" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="921" style="edgeStyle=none;html=1;" edge="1" parent="1" source="922" target="923">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1114" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="922" target="927">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-11397" y="3754"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="922" value="zodiac == &quot;Virgo&quot; &amp;amp;&amp;amp; topic == &quot;Work&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-11010" y="3695" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1020" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="923" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-10600" y="7745"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="923" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;Don't be too quick to judge an idea and put it away in a file that you might never open again. Although it may be useful to compartmentalize in this manner, doing so may do you a great deal of harm in the long run.&amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-11040" y="3895" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="925" style="edgeStyle=none;html=1;" edge="1" parent="1" source="927" target="928">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="926" style="edgeStyle=none;html=1;" edge="1" parent="1" source="927">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-12020" y="4144.999999999999" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-12020" y="3930"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="927" value="zodiac == &quot;Libra&quot; &amp;amp;&amp;amp; topic == &quot;Money&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-11650" y="3880" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1021" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="928" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-11272" y="7764"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="928" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;You have a lot of intractable activity now. You're being pushed in a not-so-subtle way to deal with others. Forming new relationships and cultivating existing ones will provide the answers you seek. &amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-11680" y="4145" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="929" style="edgeStyle=none;html=1;" edge="1" parent="1" source="931" target="932">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="930" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="931" target="934">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-12755" y="4195"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="931" value="zodiac == &quot;Libra&quot; &amp;amp;&amp;amp; topic == &quot;Health&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-12290" y="4149" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1022" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="932" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-11944" y="7745"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="932" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;Commitment is the key to success, and you must commit to a healthy physical life in order to have balance and harmony in the bigger picture. &amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-12320" y="4414" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="933" style="edgeStyle=none;html=1;" edge="1" parent="1" source="934" target="935">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="948" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="934" target="939">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-13405" y="4330"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="934" value="zodiac == &quot;Libra&quot; &amp;amp;&amp;amp; topic == &quot;Work&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-13020" y="4285" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1023" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="935" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-12680" y="7745"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="935" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;Your freethinking personality will receive a great deal of support today. Tackle any work that allows you independence. Search for opportunities in which you can be your own person instead of having to stick yourself into someone else's box.&amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-13050" y="4485" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="937" style="edgeStyle=none;html=1;" edge="1" parent="1" source="939" target="940">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="938" style="edgeStyle=none;html=1;startArrow=none;" edge="1" parent="1" source="1064">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-14040" y="4749.999999999998" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-14040" y="4535"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="939" value="zodiac == &quot;Scorpio&quot; &amp;amp;&amp;amp; topic == &quot;Money&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-13670" y="4485" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1025" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="940" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-13336" y="7745"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="940" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;You have something to think about concerning your employment. Since aspects affect your job, working environment, boss, and co-workers, it's time to pay attention to each of these areas. Ask yourself if you're happy here. Do you want to stay or change jobs? &amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-13700" y="4750" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="941" style="edgeStyle=none;html=1;" edge="1" parent="1" source="943" target="944">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="942" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="943" target="946">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-14775" y="4800"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="943" value="zodiac == &quot;Scorpio&quot; &amp;amp;&amp;amp; topic == &quot;Health&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-14310" y="4754" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1026" style="edgeStyle=none;html=1;" edge="1" parent="1" source="944">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="951" y="7745" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-13976" y="7745"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="944" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;Give away a little of your high-powered energy working out or doing yoga. Skim the cream off the top, as it were, and enjoy a more deeply centered feeling.&amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-14340" y="5019" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="945" style="edgeStyle=none;html=1;" edge="1" parent="1" source="946" target="947">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1069" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="946" target="953">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-15509" y="4940"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="946" value="zodiac == &quot;Scorpio&quot; &amp;amp;&amp;amp; topic == &quot;Work&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-15040" y="4890" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1032" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="947" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-14824" y="7745"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="947" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;Unless you know your history, you are doomed to repeat it. With that said, consider taking a step backward. Doing so may actually end up being the giant step forward that you had been hoping for. You can achieve wonderful success in this manner.&amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-15070" y="5090" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="951" style="edgeStyle=none;html=1;" edge="1" parent="1" source="953" target="954">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="952" style="edgeStyle=none;html=1;" edge="1" parent="1" source="953">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-16130" y="5324.999999999998" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-16130" y="5110"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="953" value="zodiac == &quot;Sagittarius&quot; &amp;amp;&amp;amp; topic == &quot;Money&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-15760" y="5060" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1033" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="954" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-15464" y="7745"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="954" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;A balanced and peace-loving Universe brings a lot of courage to face an existing debt problem, as well as the negotiating skills to get the kind of payment plan you can afford. Part of you may be worried that you'll never get it done, but aspects show that you will if you apply your inner wisdom.&amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-15790" y="5325" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="955" style="edgeStyle=none;html=1;" edge="1" parent="1" source="957" target="958">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="956" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="957" target="960">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-16865" y="5375"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="957" value="zodiac == &quot;Sagittarius&quot; &amp;amp;&amp;amp; topic == &quot;Health&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-16400" y="5329" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1034" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="958" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-16120" y="7745"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="958" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;You need to take your physical well-being quite seriously or your energy will run amuck. Broaden your awareness of what healthy means to you by talking with your friends about fitness. See what they do to enhance their wellbeing. &amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-16430" y="5594" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="959" style="edgeStyle=none;html=1;" edge="1" parent="1" source="960" target="961">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1072" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="960" target="964">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-17502" y="5515"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="960" value="zodiac == &quot;Sagittarius&quot; &amp;amp;&amp;amp; topic == &quot;Work&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-17130" y="5465" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1039" style="edgeStyle=none;html=1;" edge="1" parent="1" source="961" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-16888" y="7745"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="961" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;Now is the time to start going back and&amp;nbsp;&lt;/div&gt;&lt;div&gt;reviewing plans that you made previously. Take the&amp;nbsp;&lt;/div&gt;&lt;div&gt;time to reflect on where you have been before taking&lt;/div&gt;&lt;div&gt;&amp;nbsp;another step forward. Doing so will save you a great deal&lt;/div&gt;&lt;div&gt;&amp;nbsp;of time, energy, and resources in the long run.&amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-17160" y="5665" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="962" style="edgeStyle=none;html=1;" edge="1" parent="1" source="964" target="965">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="963" style="edgeStyle=none;html=1;" edge="1" parent="1" source="964">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-18130" y="5929.999999999998" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-18130" y="5715"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="964" value="zodiac == &quot;Capricorn&quot; &amp;amp;&amp;amp; topic == &quot;Work&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-17760" y="5665" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1038" style="edgeStyle=none;html=1;" edge="1" parent="1" source="965">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="958" y="7745" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-17480" y="7745"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="965" value="&lt;div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;Now is the time to start going back and&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;reviewing plans that you made previously.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Take the time to reflect on where you have been&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;before taking another step forward.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Doing so will save you a great deal of time,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;energy, and resources in the long run.&amp;lt;/p&amp;gt;&quot;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-17790" y="5930" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="966" style="edgeStyle=none;html=1;" edge="1" parent="1" source="968" target="969">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="967" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="968" target="971">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-18865" y="5980"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="968" value="zodiac == &quot;Capricorn&quot; &amp;amp;&amp;amp; topic == &quot;Health&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-18400" y="5934" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1037" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="969" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-18103" y="7737"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="969" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;With so much focus on politics, it is easy&amp;nbsp;&lt;/div&gt;&lt;div&gt;to lose track of the daily wellness program we all need&amp;nbsp;&lt;/div&gt;&lt;div&gt;to keep in order to stay healthy and take advantage of&amp;nbsp;&lt;/div&gt;&lt;div&gt;the many privileges we have in our modern society. &amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-18430" y="6199" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="970" style="edgeStyle=none;html=1;" edge="1" parent="1" source="971" target="972">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="984" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="971" target="975">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-19515" y="6110"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="971" value="zodiac == &quot;Capricorn&quot; &amp;amp;&amp;amp; topic == &quot;Money&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-19130" y="6070" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1036" style="edgeStyle=none;html=1;" edge="1" parent="1" source="972" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-18840" y="7732"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="972" value="&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;You don't always have the patience required&amp;nbsp;&lt;/div&gt;&lt;div&gt;to cultivate long-term relationships. You want results&lt;/div&gt;&lt;div&gt;&amp;nbsp;now, which can stand in the way of growth in other&amp;nbsp;&lt;/div&gt;&lt;div&gt;areas. Now male and female energies perfectly&lt;/div&gt;&lt;div&gt;&amp;nbsp;balance in your house of serious relationships.&amp;nbsp;&lt;/div&gt;&lt;div&gt;This can help you merge with a business partner&amp;nbsp;&lt;/div&gt;&lt;div&gt;or develop new projects. Just don't sign on the dotted line yet. &amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-19160" y="6270" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="973" style="edgeStyle=none;html=1;" edge="1" parent="1" source="975" target="976">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="974" style="edgeStyle=none;html=1;" edge="1" parent="1" source="975">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-20150" y="6524.999999999998" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-20150" y="6310"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="975" value="zodiac == &quot;Aquarius&quot; &amp;amp;&amp;amp; topic == &quot;Money&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-19780" y="6260" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1035" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="976" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-19515" y="7732"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="976" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;Money is a way to find the security you seek.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Now you'll probably notice that your male and&lt;/div&gt;&lt;div&gt;&amp;nbsp;female sides are pretty balanced. Good work!&amp;nbsp;&lt;/div&gt;&lt;div&gt;Since this affects your employment, health, and&amp;nbsp;&lt;/div&gt;&lt;div&gt;mundane activities, work is likely to be going well.&amp;nbsp;&lt;/div&gt;&lt;div&gt;You're making a great impression on people higher&amp;nbsp;&lt;/div&gt;&lt;div&gt;up the ladder. If you want to take this a step further,&amp;nbsp;&lt;/div&gt;&lt;div&gt;volunteer to head a special project. Your review will be amazing! &amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-19810" y="6525" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="977" style="edgeStyle=none;html=1;" edge="1" parent="1" source="979" target="980">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="978" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="979" target="982">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-20885" y="6575"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="979" value="zodiac == &quot;Aquarius&quot; &amp;amp;&amp;amp; topic == &quot;Health&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-20420" y="6529" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1031" style="edgeStyle=none;html=1;" edge="1" parent="1" source="980">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="953" y="7745" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-20155" y="7732"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="980" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt; Make the most of whatever you do for&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;exercise by breathing deeply as you do it. You will&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;get twice as much out of it and feel reinvigorated&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp;without putting any extra stress on your body. &amp;lt;/p&amp;gt;&quot;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-20450" y="6794" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="981" style="edgeStyle=none;html=1;" edge="1" parent="1" source="982" target="983">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="996" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="982" target="987">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-21525" y="6715"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="982" value="zodiac == &quot;Aquarius&quot; &amp;amp;&amp;amp; topic == &quot;Work&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-21150" y="6665" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1030" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="983" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-20885" y="7732"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="983" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;The race continues on, but someone is likely&lt;/div&gt;&lt;div&gt;&amp;nbsp;to throw in an extra twist. A partner that you&amp;nbsp;&lt;/div&gt;&lt;div&gt;thought you could count on is taking a giant step&lt;/div&gt;&lt;div&gt;&amp;nbsp;backward. Suddenly, this powerful support&amp;nbsp;&lt;/div&gt;&lt;div&gt;that you were hoping for is not so secure after all.&amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-21180" y="6865" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="985" style="edgeStyle=none;html=1;" edge="1" parent="1" source="987" target="988">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="986" style="edgeStyle=none;html=1;" edge="1" parent="1" source="987">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-22160" y="7134.999999999998" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-22160" y="6920"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="987" value="zodiac == &quot;Pisces&quot; &amp;amp;&amp;amp; topic == &quot;Money&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-21790" y="6870" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1029" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="988" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-21525" y="7732"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="988" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;We're here to learn, not control. Activity in your&amp;nbsp;&lt;/div&gt;&lt;div&gt;house of travel, languages, and higher education means&lt;/div&gt;&lt;div&gt;&amp;nbsp;that you may find increased access to money when you&amp;nbsp;&lt;/div&gt;&lt;div&gt;take your skills to markets outside Canada.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Go online to connect to new customers. &amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-21820" y="7135" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="989" style="edgeStyle=none;html=1;" edge="1" parent="1" source="991" target="992">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="990" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="991" target="994">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-22895" y="7185"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="991" value="zodiac == &quot;Pisces&quot; &amp;amp;&amp;amp; topic == &quot;Health&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-22430" y="7139" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1028" style="edgeStyle=none;html=1;" edge="1" parent="1" source="992">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="950" y="7745" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-22165" y="7732"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="992" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;&amp;nbsp; You may have the best of intentions but&lt;/div&gt;&lt;div&gt;&amp;nbsp;not enough follow through in your exercise regimen.&lt;/div&gt;&lt;div&gt;&amp;nbsp;One way to take the burden off yourself is to join a&amp;nbsp;&lt;/div&gt;&lt;div&gt;group that exercises regularly - a virtual team or a class of some sort. &amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-22460" y="7404" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="993" style="edgeStyle=none;html=1;" edge="1" parent="1" source="994" target="995">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1002" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="994" target="999">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-23485" y="7325"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="994" value="zodiac == &quot;Pisces&quot; &amp;amp;&amp;amp; topic == &quot;Work&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-23160" y="7275" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1027" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="995" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-22904" y="7716"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="995" value="&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;Your current plans may stop dead in their&amp;nbsp;&lt;/div&gt;&lt;div&gt;tracks today thanks to someone who has a rather&amp;nbsp;&lt;/div&gt;&lt;div&gt;backward notion of the situation at hand. It seems that&amp;nbsp;&lt;/div&gt;&lt;div&gt;someone's belief system is clogging up the works in a&lt;/div&gt;&lt;div&gt;&amp;nbsp;rather negative way. Open the door for dialogue.&amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-23190" y="7475" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="998" style="edgeStyle=none;html=1;" edge="1" parent="1" source="999" target="1000">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="999" value="else" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="-23750" y="7450" width="530" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="1004" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1000" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="983.99658203125" y="7764.0008544921875" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1000" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;&amp;lt;p&amp;gt;You did not select anything?&amp;lt;/p&amp;gt;&quot;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+                    <mxGeometry x="-23780" y="7650" width="590" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="1024" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="849">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="950" y="7745" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1040" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="123" y="462" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="1041" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-561" y="740" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="1042" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-1258" y="870" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="1043" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-1898" y="1019" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="1044" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-2616" y="1299" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="1045" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-3270" y="1437" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="1046" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-3920" y="1626" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="1047" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-4643" y="1884" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="1048" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-5292" y="2025" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="1049" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-5906" y="2152" width="100" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="1050" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-6605" y="2426" width="100" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="1051" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-7280" y="2557" width="100" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="1052" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-7865" y="2703" width="100" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="1053" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-8547" y="2971" width="100" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="1054" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-9193" y="3117" width="100" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="1055" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-9839" y="3282" width="100" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="1057" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-10566" y="3552" width="100" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="1059" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-11262" y="3669" width="100" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="1061" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-11885" y="3888" width="100" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="1062" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-12543" y="4102" width="100" height="123" as="geometry"/>
+                </mxCell>
+                <mxCell id="1063" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-13247" y="4234" width="100" height="123" as="geometry"/>
+                </mxCell>
+                <mxCell id="1064" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-13915" y="4449" width="100" height="123" as="geometry"/>
+                </mxCell>
+                <mxCell id="1065" value="" style="edgeStyle=none;html=1;endArrow=none;" edge="1" parent="1" source="939" target="1064">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-14040" y="4749.999999999998" as="targetPoint"/>
+                        <Array as="points"/>
+                        <mxPoint x="-13670" y="4535" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1066" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-14610" y="4677" width="100" height="123" as="geometry"/>
+                </mxCell>
+                <mxCell id="1068" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-15339" y="4790" width="100" height="123" as="geometry"/>
+                </mxCell>
+                <mxCell id="1070" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-15948" y="5013" width="100" height="123" as="geometry"/>
+                </mxCell>
+                <mxCell id="1071" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-16639" y="5273" width="100" height="123" as="geometry"/>
+                </mxCell>
+                <mxCell id="1073" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-17323" y="5427" width="100" height="123" as="geometry"/>
+                </mxCell>
+                <mxCell id="1074" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-17988" y="5607" width="100" height="123" as="geometry"/>
+                </mxCell>
+                <mxCell id="1076" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-18720" y="5895" width="100" height="123" as="geometry"/>
+                </mxCell>
+                <mxCell id="1077" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-19379" y="6030" width="100" height="123" as="geometry"/>
+                </mxCell>
+                <mxCell id="1078" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-20009" y="6197" width="100" height="123" as="geometry"/>
+                </mxCell>
+                <mxCell id="1080" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-20674" y="6469" width="100" height="123" as="geometry"/>
+                </mxCell>
+                <mxCell id="1082" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-21378" y="6604" width="100" height="123" as="geometry"/>
+                </mxCell>
+                <mxCell id="1086" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-22011" y="6819" width="100" height="123" as="geometry"/>
+                </mxCell>
+                <mxCell id="1087" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-22660" y="7091" width="100" height="123" as="geometry"/>
+                </mxCell>
+                <mxCell id="1088" value="False" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-23402" y="7239" width="100" height="123" as="geometry"/>
+                </mxCell>
+                <mxCell id="1089" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-22877" y="7391" width="100" height="59" as="geometry"/>
+                </mxCell>
+                <mxCell id="1090" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-22102" y="7286" width="100" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="1091" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-21455" y="7017" width="100" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="1092" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-20805" y="6774" width="100" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="1093" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-20117" y="6665" width="100" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="1094" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-19499" y="6407" width="100" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="1095" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-18862" y="6170" width="100" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="1096" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-18106" y="6081" width="100" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="1097" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-17437" y="5812" width="100" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="1098" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-16832" y="5569" width="100" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="1099" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-16118" y="5476" width="100" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="1100" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-15442" y="5207" width="100" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="1101" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-14744" y="5003" width="100" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="1102" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-14011" y="4901" width="100" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="1103" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-13383" y="4652" width="100" height="11" as="geometry"/>
+                </mxCell>
+                <mxCell id="1104" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-12714" y="4377" width="100" height="101" as="geometry"/>
+                </mxCell>
+                <mxCell id="1105" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-12006" y="4281" width="100" height="101" as="geometry"/>
+                </mxCell>
+                <mxCell id="1106" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-11362" y="4012" width="100" height="101" as="geometry"/>
+                </mxCell>
+                <mxCell id="1107" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-10741" y="3789" width="100" height="101" as="geometry"/>
+                </mxCell>
+                <mxCell id="1108" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-9973" y="3691" width="100" height="101" as="geometry"/>
+                </mxCell>
+                <mxCell id="1117" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-9342" y="3422" width="100" height="101" as="geometry"/>
+                </mxCell>
+                <mxCell id="1118" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-8730" y="3213" width="100" height="101" as="geometry"/>
+                </mxCell>
+                <mxCell id="1119" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-8035" y="3110" width="100" height="101" as="geometry"/>
+                </mxCell>
+                <mxCell id="1120" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-7377" y="2841" width="100" height="101" as="geometry"/>
+                </mxCell>
+                <mxCell id="1121" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-6747" y="2660" width="100" height="101" as="geometry"/>
+                </mxCell>
+                <mxCell id="1122" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-6025" y="2540" width="100" height="101" as="geometry"/>
+                </mxCell>
+                <mxCell id="1123" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-5395" y="2296" width="100" height="101" as="geometry"/>
+                </mxCell>
+                <mxCell id="1124" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-4815" y="2130" width="100" height="101" as="geometry"/>
+                </mxCell>
+                <mxCell id="1125" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-4069" y="2031" width="100" height="101" as="geometry"/>
+                </mxCell>
+                <mxCell id="1126" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-3431" y="1762" width="100" height="101" as="geometry"/>
+                </mxCell>
+                <mxCell id="1127" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-2781" y="1539" width="100" height="101" as="geometry"/>
+                </mxCell>
+                <mxCell id="1128" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-2047" y="1417" width="100" height="101" as="geometry"/>
+                </mxCell>
+                <mxCell id="1129" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-1405" y="1166" width="100" height="101" as="geometry"/>
+                </mxCell>
+                <mxCell id="1130" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-779" y="976" width="100" height="101" as="geometry"/>
+                </mxCell>
+                <mxCell id="1131" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-45" y="886" width="100" height="101" as="geometry"/>
+                </mxCell>
+                <mxCell id="1132" value="True" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="621" y="617" width="100" height="101" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
