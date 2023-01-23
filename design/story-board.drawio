@@ -1,37 +1,37 @@
 <mxfile host="65bd71144e">
     <diagram id="gMeVz77WIKtlgJUUk6se" name="Page-1">
-        <mxGraphModel dx="1517" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1529" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="7" value="Horoscope Generator" style="swimlane;" vertex="1" parent="1">
+                <mxCell id="7" value="Horoscope Generator" style="swimlane;" parent="1" vertex="1">
                     <mxGeometry x="-70" y="100" width="650" height="670" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="Image of zodiac wheel with all zodiacs" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="7">
+                <mxCell id="8" value="Image of zodiac wheel with all zodiacs" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="7" vertex="1">
                     <mxGeometry x="250" y="60" width="150" height="150" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="Select your zodiac sign below...." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="7">
+                <mxCell id="9" value="Select your zodiac sign below...." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="7" vertex="1">
                     <mxGeometry x="20" y="190" width="210" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="Select your horoscope topic below...." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="7">
+                <mxCell id="10" value="Select your horoscope topic below...." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="7" vertex="1">
                     <mxGeometry x="20" y="250" width="210" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="Aries (March 21-April 19)" style="swimlane;" vertex="1" parent="7">
+                <mxCell id="11" value="Aries (March 21-April 19)" style="swimlane;" parent="7" vertex="1">
                     <mxGeometry x="25" y="220" width="200" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="Work" style="swimlane;" vertex="1" parent="7">
+                <mxCell id="13" value="Work" style="swimlane;" parent="7" vertex="1">
                     <mxGeometry x="20" y="290" width="200" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="14" value="Generate" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7">
+                <mxCell id="14" value="Generate" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" parent="7" vertex="1">
                     <mxGeometry x="20" y="330" width="110" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="15" value="Image of selected zodiac" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="7">
+                <mxCell id="15" value="Image of selected zodiac" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="7" vertex="1">
                     <mxGeometry x="240" y="400" width="190" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" value="Zodiac description" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7">
+                <mxCell id="16" value="Zodiac description" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7" vertex="1">
                     <mxGeometry x="257.5" y="580" width="155" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="17" value="Zodiac description" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7">
+                <mxCell id="17" value="Horoscope" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7" vertex="1">
                     <mxGeometry x="257.5" y="600" width="155" height="30" as="geometry"/>
                 </mxCell>
             </root>
